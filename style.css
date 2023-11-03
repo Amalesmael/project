@@ -1,0 +1,40 @@
+body{
+    margin: 0
+}
+.fixed{
+    width: 20%;
+    position: fixed;
+    float: left
+}
+a:hover{
+    color: white;
+    background-color: black
+}
+.left{
+    width: 80%;
+    float: right;
+}
+header{
+    font-size: 30;
+}
+.done-left{
+    
+    width: 33.3333%;
+    float: left
+}
+.pages{
+    padding: 100px;
+    text-align: center;
+}
+.photo-bart-two{
+    width: 50%;
+    float: left
+}
+.footer{
+    
+    padding: 30px
+    
+}
+
+
+
